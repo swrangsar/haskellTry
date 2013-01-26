@@ -1,0 +1,4 @@
+haskellTry
+==========
+
+play with haskell
